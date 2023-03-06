@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1616147361 source:c:\users\asus\desktop\final cw2 project\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
